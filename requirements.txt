@@ -1,6 +1,6 @@
 numpy
 pandas
-seabron
+seaborn
 matplotlib
 scikit-learn
 pickle
