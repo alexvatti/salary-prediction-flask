@@ -3,7 +3,7 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-pickle
+pickle5
 streamlit
 flask
 gunicorn
